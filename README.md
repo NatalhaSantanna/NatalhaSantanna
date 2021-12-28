@@ -1,4 +1,4 @@
-### Hi there, i'm Natalha 👋
+### Hi there! I'm Natalha 👋
 
 - 💻 I’m currently learning javascript and logic
 - 📫 How to reach me: natalha.ssantanna@live.com
