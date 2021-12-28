@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="nathy-pic" height="150" style="border-radius:50px;" src="https://twitter.com/NatalhaSantanna/status/1475928372240916485/photo/1">
+  <img align="right" alt="nathy-pic" height="150" style="border-radius:50px;" src="downloads/download20211202172935">
 </div>
   
   ##
