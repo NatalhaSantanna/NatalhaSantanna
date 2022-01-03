@@ -1,6 +1,6 @@
 ### Hi there! I'm Natalha Santanna 👋
 
-- 💻 I’m currently learning javascript and logic
+- 💻 I’m currently learning javascript
 - 📫 How to reach me: natalha.ssantanna@live.com
 - 💁‍♀️ Pronouns: she/her
 
